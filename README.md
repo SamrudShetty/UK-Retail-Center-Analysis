@@ -51,8 +51,6 @@ Due to GitHub file size limits, the complete 625 MB notebook is hosted externall
 👉 [View on Google Colab](https://colab.research.google.com/drive/1ZqFtRHtTLRXuDflOEd-xdKIJA32vGIYc?usp=sharing)
 
 
-![Retail Analysis Dashboard Preview](figures/retail_analysis_overview.png)
-
 
 
 ---
@@ -90,5 +88,6 @@ This project is released under the **MIT License** — see the `LICENSE` file fo
 Samrud Shetty
 Data Analyst / Researcher
 📧 [samruds26@gmail.com]
+
 
 
