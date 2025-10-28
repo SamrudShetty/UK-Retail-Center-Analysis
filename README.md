@@ -43,6 +43,12 @@ The aim is to understand patterns in retail vitality, vacancy trends, and typolo
 View the complete report with maps and visuals here:  
 👉 [https://github.com/SamrudShetty/UK-Retail-Center-Analysis]
 
+
+📘 Full Notebook:
+The complete Jupyter notebook (625 MB) is hosted externally due to GitHub size limits.  
+👉 https://colab.research.google.com/drive/1ZqFtRHtTLRXuDflOEd-xdKIJA32vGIYc?usp=sharing
+
+
 ---
 
 ## ⚙️ How to Run
@@ -78,3 +84,4 @@ This project is released under the **MIT License** — see the `LICENSE` file fo
 Samrud Shetty
 Data Analyst / Researcher
 📧 [samruds26@gmail.com]
+
