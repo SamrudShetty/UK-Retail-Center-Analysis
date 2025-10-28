@@ -1,8 +1,10 @@
 # 🏬 UK Retail Centre Analysis
+A Python-based geospatial and statistical analysis of UK retail centres using ONS and GEODS datasets.  
+Focused on identifying patterns in retail vitality, vacancy trends, and spatial accessibility through data visualization and mapping.
 
 This project explores retail centres across the UK using open datasets from the [Office for National Statistics (ONS)](https://www.ons.gov.uk/) and the [UK Geographic Data Service (GEODS)](https://data.geods.ac.uk/).
 
-The aim is to understand patterns in retail vitality, vacancy trends, and typologies through Python-based data analysis and visualisation.
+
 
 ---
 
@@ -44,9 +46,13 @@ View the complete report with maps and visuals here:
 👉 [https://github.com/SamrudShetty/UK-Retail-Center-Analysis]
 
 
-📘 Full Notebook:
-The complete Jupyter notebook (625 MB) is hosted externally due to GitHub size limits.  
-👉 https://colab.research.google.com/drive/1ZqFtRHtTLRXuDflOEd-xdKIJA32vGIYc?usp=sharing
+📘 **Full Notebook**  
+Due to GitHub file size limits, the complete 625 MB notebook is hosted externally.  
+👉 [View on Google Colab](https://colab.research.google.com/drive/1ZqFtRHtTLRXuDflOEd-xdKIJA32vGIYc?usp=sharing)
+
+
+![Retail Analysis Dashboard Preview](figures/retail_analysis_overview.png)
+
 
 
 ---
@@ -84,4 +90,5 @@ This project is released under the **MIT License** — see the `LICENSE` file fo
 Samrud Shetty
 Data Analyst / Researcher
 📧 [samruds26@gmail.com]
+
 
